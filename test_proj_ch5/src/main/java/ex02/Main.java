@@ -21,4 +21,6 @@ public class Main {
 
 		System.out.println(cs.getCommentRepository() == us.getCommentRepository());
 	}
+
+//	здесь рассматривается модель BeanTree
 }
